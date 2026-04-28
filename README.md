@@ -104,11 +104,11 @@ else:
 - Conditional logic (Modulus Operator)
 
 
-## Tools Used :-
+# Tools Used :-
 - Python 3.13.9
 - Jupyter Notebook
 
 
-## Purpose :-
+# Purpose :-
 This repository documents my Python learning journey and hands-on practice with core concepts.
 
