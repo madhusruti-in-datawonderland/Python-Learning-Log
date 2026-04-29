@@ -96,7 +96,8 @@ else:
 
 # Concepts Learned :-
 - Python syntax basics  
-- Variables and data types  
+- Variables and data types
+- Dynamic typing 
 - Arithmetic operations  
 - User input handling  
 - Type conversion / Typecasting 
