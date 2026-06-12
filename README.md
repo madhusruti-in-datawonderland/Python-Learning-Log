@@ -9,13 +9,13 @@ Python print("My name is Madhusruti") print("I Love Python")
 Using: print() To print the statements.
 
 ## 2. Data Types
-Introducing to Python's basic dat types.
+Introducing to Python's basic data types.
 * Integer (int)
 * Float (float)
 * Boolean (bool)
 * String (str)
 
-Python a = 1 b= 0.9 c = False d = "Enhypen"
+Python a = 1  b = 0.9  c = False  d = "Enhypen"
 
 ## 3. Basic Arithmetic Operations
 The 4 basic operators.
@@ -24,7 +24,7 @@ The 4 basic operators.
 * Multiplication (*)
 * Division (/)
 
-Python m+n x-y p*q j/k
+Python m+n  x-y  p*q  j/k
 
 After assigning value to each variable. Using: print("Addition of the two numbers is", m+n)  print("Substraction of the two numbers is", x-y)  print("Multiplication of the two numbers is", p*q)  print("Division of the two numbers is", j/k). To get the desired outcomes from the basic four arithmetic operators.
 
@@ -45,17 +45,17 @@ Understanding:
 ### Implicit Typecasting 
 Automatic datatype conversion by Python.
 
-Python mm = mm + 0.7
+Python  mm = mm + 0.7
 
 ### Explicit Typecasting
 Manually changing datatypes.
 
-Python nn = int(nn)
+Python  nn = int(nn)
 
 ## 6. F-Strings
 String formatting using f-strings.
 
-Python name = input("enter the name")  print(f"Hello! We are (name).")
+Python  name = input("enter the name")  print(f"Hello! We are (name).")
 
 ## 7. Modulus Operator
 Using % to check even or odd numbers.
